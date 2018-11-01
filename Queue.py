@@ -19,6 +19,7 @@
 # Est-ce que tu es d'accord ?
 
 #3-Pour dequeue, est-ce qu'on autorise l'application de la méthode à une file vide ?
+(Claire) :  D'après le fichier de Lulu, dequeue prend en argument une liste non vide.
 
 class Queue :
 
